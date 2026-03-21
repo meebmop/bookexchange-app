@@ -28,22 +28,22 @@ Die Datenbank implementiert mehrere fortgeschrittene Datenbankkonzepte:
 
 ```
 sql/
-├── 01_Schema.sql
-├── 02_Seed_Data.sql
-├── 03_Triggers.sql
-├── 04_Views.sql
-├── 05_Role_Privileges.sql
-└── 06_Tests.sql
+├── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_01_Schema.sql
+├── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_02_Seed_Data.sql
+├── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_03_Triggers.sql
+├── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_04_Views.sql
+├── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_05_Role_Privileges.sql
+└── Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_06_Tests.sql
 ```
 
 | Datei | Beschreibung |
 |---|---|
-| `01_Schema.sql` | Erstellt Datenbank, Tabellen und Constraints |
-| `02_Seed_Data.sql` | Fügt Beispiel-Daten ein |
-| `03_Triggers.sql` | Implementiert Geschäftsregeln über Trigger |
-| `04_Views.sql` | Erstellt Privacy- und Analyse-Views |
-| `05_Role_Privileges.sql` | Implementiert Rollen und Berechtigungen |
-| `06_Tests.sql` | Enthält Test-Szenarien zur Überprüfung der Datenbank |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_01_Schema.sql` | Erstellt Datenbank, Tabellen und Constraints |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_02_Seed_Data.sql` | Fügt Beispiel-Daten ein |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_03_Triggers.sql` | Implementiert Geschäftsregeln über Trigger |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_04_Views.sql` | Erstellt Privacy- und Analyse-Views |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_05_Role_Privileges.sql` | Implementiert Rollen und Berechtigungen |
+| `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_06_Tests.sql` | Enthält Test-Szenarien zur Überprüfung der Datenbank |
 
 ---
 
@@ -60,12 +60,12 @@ Die Datenbank wird automatisch durch das erste Skript erstellt.
 ### SQL-Skripte in folgender Reihenfolge ausführen:
 
 ```
-01_Schema.sql
-02_Seed_Data.sql
-03_Triggers.sql
-04_Views.sql
-05_Role_Privileges.sql
-06_Tests.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_01_Schema.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_02_Seed_Data.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_03_Triggers.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_04_Views.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_05_Role_Privileges.sql
+Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_06_Tests.sql
 ```
 
 Eine detaillierte Installationsanleitung befindet sich im Ordner:
@@ -150,7 +150,7 @@ Für Reporting und Analyse wurden mehrere Data-Mart-Views implementiert:
 
 ## Test-Szenarien
 
-Die Datei `06_tests.sql` enthält mehrere Testfälle.
+Die Datei `Gross-Marie_IU14106516_DLBDSPBDM01_D_ Bearbeitungs-Reflexionsphase_SQL_06_tests.sql` enthält mehrere Testfälle.
 
 ### Happy Path
 
