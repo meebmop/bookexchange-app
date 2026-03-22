@@ -3,7 +3,7 @@
 Relationale Datenbank für eine Buchtausch-Plattform, implementiert in MariaDB.
 
 Dieses Projekt wurde im Rahmen des Moduls  
-**DLBDSPBDM01_D – Datenbanken und Datenmanagement** entwickelt.
+**DLBDSPBDM01_D – Projekt: Data-Mart-Erstellung in SQL** entwickelt.
 
 Die Datenbank modelliert eine Plattform, auf der Mitglieder Bücher anbieten, ausleihen und nach einer erfolgreichen Ausleihe gegenseitig bewerten können.
 
@@ -191,8 +191,8 @@ Validiert das Least-Privilege-Prinzip für `app_member` und `app_admin`.
 
 ## Autor
 
-Marie Groß (Martrikelnummer: IU14106516) 
+Marie Groß (Matrikelnummer: IU14106516) 
 IU Internationale Hochschule
 
 Studiengang: Informatik  
-Modul: **DLBDSPBDM01_D – Datenbanken und Datenmanagement**
+Modul: **DLBDSPBDM01_D – Projekt: Data-Mart-Erstellung in SQL**
