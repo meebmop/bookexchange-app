@@ -150,7 +150,7 @@ Für Reporting und Analyse wurden mehrere Data-Mart-Views implementiert:
 
 ## Test-Szenarien
 
-Die Datei `Gross-Marie_IU14106516_DLBDSPBDM01_D_Abschlussphase_SQL_06_tests.sql` enthält mehrere Testfälle.
+Die Datei `Gross-Marie_IU14106516_DLBDSPBDM01_D_Abschlussphase_SQL_06_Tests.sql` enthält mehrere Testfälle.
 
 ### Happy Path
 
